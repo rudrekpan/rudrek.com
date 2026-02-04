@@ -208,10 +208,10 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
-              { value: '7.5+', label: 'Years Experience' },
-              { value: '$1B+', label: 'Growth Strategies' },
-              { value: '85%', label: 'Service Cycle Compression' },
-              { value: '12%', label: 'YoY Revenue Growth' },
+              { value: '8+', label: 'Years Experience' },
+              { value: '4+', label: 'Years in B2B Sales' },
+              { value: '4+', label: 'Years in Strategy Consulting' },
+              { value: '∞', label: 'Curious Since Birth' },
             ].map((stat, index) => (
               <motion.div
                 key={stat.label}
