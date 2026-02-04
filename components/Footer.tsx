@@ -5,7 +5,7 @@ import { Linkedin, Mail } from 'lucide-react'
 import { motion } from 'framer-motion'
 
 const socialLinks = [
-  { href: 'https://linkedin.com/in/rudrek-pan', icon: Linkedin, label: 'LinkedIn' },
+  { href: 'https://www.linkedin.com/in/rudrekpan', icon: Linkedin, label: 'LinkedIn' },
   { href: 'mailto:rudrekpan.work@gmail.com', icon: Mail, label: 'Email' },
 ]
 

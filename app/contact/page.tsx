@@ -7,7 +7,7 @@ import { ContactForm } from '@/components/ContactForm'
 const socialLinks = [
   {
     name: 'LinkedIn',
-    href: 'https://linkedin.com/in/rudrek-pan',
+    href: 'https://www.linkedin.com/in/rudrekpan',
     icon: Linkedin,
     description: 'Connect professionally',
   },

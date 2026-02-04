@@ -162,7 +162,7 @@ export default function HomePage() {
               className="flex items-center justify-center gap-4"
             >
               <motion.a
-                href="https://linkedin.com/in/rudrek-pan"
+                href="https://www.linkedin.com/in/rudrekpan"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1, y: -2 }}
